@@ -1,4 +1,3 @@
-Hi there welcome to my github repo.
 Hey there! Welcome I'm kechie wan (richard l. alhama), I'm a local government employee of the City of Laoag, Philippines.
 <!---
 # [Your Name]'s Personal Repository
